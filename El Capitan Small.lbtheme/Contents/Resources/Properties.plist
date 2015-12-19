@@ -7,7 +7,7 @@
 	<key>defaultFontName</key>
 	<string>lightSystemFont</string>
 	<key>defaultTextColor</key>
-	<string>#2c2b2d</string>
+	<string>darkTextColor</string>
 	<key>inputAreaAbbreviationTextColor</key>
 	<string>@defaultTextColor</string>
 	<key>inputAreaBlackTextColor</key>
@@ -19,7 +19,7 @@
 	<key>inputAreaAbbreviationInputProgressIndicationOffset</key>
 	<integer>1</integer>
 	<key>inputAreaActionMenuAreaTextShadowOffset</key>
-	<string>@defaultShadowOffset</string>
+	<string>0</string>
 	<key>inputAreaAutohideOffImage</key>
 	<string>AutohideOffTemplate</string>
 	<key>inputAreaAutohideOffImageSize</key>
@@ -173,8 +173,8 @@
 	<key>textInputFocusRingLineWidth</key>
 	<integer>0</integer>
 	<key>textInputFontName</key>
-	<string>@defaultBoldFontName</string>
-	<key>textInputFontSize</key>
+	<string>@defaultFontName</string>
+  <key>textInputFontSize</key>
 	<integer>13</integer>
 	<key>textInputSelectedTextColor</key>
 	<string>@defaultTextColor</string>
