@@ -131,9 +131,9 @@
 	<key>itemListSelectionCornerRadius</key>
 	<integer>0</integer>
 	<key>itemListSelectionHighlightColor</key>
-	<string>#478BDF</string>
+	<string>selectedMenuItemColor</string>
 	<key>itemListSelectionSubsearchHighlightColor</key>
-	<string>@itemListSelectionHighlightColor</string>
+	<string>orangeColor</string>
 	<key>itemListShouldSmoothFonts</key>
 	<true/>
 	<key>itemListSubtitleBaselineOffset</key>
