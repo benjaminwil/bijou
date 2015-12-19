@@ -51,9 +51,9 @@
 	<key>inputAreaMenuButtonImageSize</key>
 	<string>16.0 16.0</string>
 	<key>inputAreaMenuButtonPaddingRight</key>
-	<integer>9</integer>
+	<integer>6</integer>
 	<key>inputAreaPaddingLeft</key>
-	<integer>11</integer>
+	<integer>7</integer>
 	<key>inputAreaShouldSmoothFonts</key>
 	<true/>
 	<key>inputAreaTextColor</key>
@@ -61,7 +61,7 @@
 	<key>inputAreaTitlePaddingLeft</key>
 	<integer>7</integer>
 	<key>inputAreaPaddingRight</key>
-	<integer>16</integer>
+	<integer>7</integer>
 	<key>inputAreaTitleSeparatorFontSize</key>
 	<integer>13</integer>
 	<key>itemListEdgeInsets</key>
@@ -79,9 +79,9 @@
 	<key>itemListIconSize</key>
 	<string>16 16</string>
 	<key>itemListIconPaddingLeft</key>
-	<integer>5</integer>
+	<integer>7</integer>
 	<key>itemListIconPaddingRight</key>
-	<integer>5</integer>
+	<integer>7</integer>
 	<key>itemListLabelCircleDiameter</key>
 	<integer>0</integer>
 	<key>itemListLabeledExtraDetailsBackgroundColor</key>
@@ -113,7 +113,7 @@
 	<key>itemListNavigationArrowAreaWidth</key>
 	<integer>25</integer>
 	<key>itemListNavigationArrowPaddingRight</key>
-	<integer>4</integer>
+	<integer>7</integer>
 	<key>itemListRowHeight</key>
 	<integer>24</integer>
 	<key>itemListScrollerPadding</key>
@@ -202,3 +202,4 @@
 	<integer>2</integer>
 </dict>
 </plist>
+
