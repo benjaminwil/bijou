@@ -75,7 +75,9 @@
 	<key>itemListExtraDetailsTextColor</key>
 	<string>#5a5a5a</string>
 	<key>itemListGridLineHeight</key>
-	<integer>0</integer>
+  <integer>0</integer>
+  <key>itemListGridLineShadowHeight</key>
+  <integer>0</integer>
 	<key>itemListIconSize</key>
 	<string>16 16</string>
 	<key>itemListIconPaddingLeft</key>
@@ -83,7 +85,7 @@
 	<key>itemListIconPaddingRight</key>
 	<integer>7</integer>
 	<key>itemListLabelCircleDiameter</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>itemListLabeledExtraDetailsBackgroundColor</key>
 	<string>clearColor</string>
 	<key>itemListLabeledExtraDetailsBadgeCornerRadius</key>
@@ -202,4 +204,5 @@
 	<integer>2</integer>
 </dict>
 </plist>
+
 
