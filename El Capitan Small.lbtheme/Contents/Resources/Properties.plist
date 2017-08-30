@@ -85,7 +85,7 @@
 	<key>itemListIconPaddingRight</key>
 	<integer>7</integer>
 	<key>itemListLabelCircleDiameter</key>
-	<integer>1</integer>
+	<integer>12</integer>
 	<key>itemListLabeledExtraDetailsBackgroundColor</key>
 	<string>clearColor</string>
 	<key>itemListLabeledExtraDetailsBadgeCornerRadius</key>
@@ -204,5 +204,4 @@
 	<integer>2</integer>
 </dict>
 </plist>
-
 
