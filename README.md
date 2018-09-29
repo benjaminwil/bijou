@@ -1,4 +1,4 @@
-# El Capitan Small
+# Bijou
 
 This is a theme for [LaunchBar 6](https://www.obdev.at/products/launchbar/index.html) inspired by Vintage (also known as Small), the default theme for LaunchBar 5.
 
@@ -16,4 +16,4 @@ Download [this repository as a .zip file](https://github.com/benjaminwil/el-capi
 
 ## Acknowledgements
 
-This theme of course wouldn't be possible without [Objective Development](https://www.obdev.at) and LaunchBar—and without access to Objective Development's own Base and Vintage themes. Thanks! 🦀
+This theme of course wouldn't be possible without [Objective Development](https://www.obdev.at) and LaunchBar—and without access to Objective Development's own Base, Base Dark, and Vintage themes. Thanks! 🦀

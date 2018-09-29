@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>info.benjaminwil.LaunchBar.theme.ElCapitanSmall</string>
+	<string>info.benjaminwil.LaunchBar.theme.BijouLight</string>
 	<key>CFBundleName</key>
-	<string>El Capitan Small</string>
+	<string>Bijou Light</string>
 	<key>LBThemeDescription</key>
-	<string>A LaunchBar theme inspired by Small.</string>
+	<string>A light LaunchBar theme inspired by Small.</string>
 </dict>
 </plist>
