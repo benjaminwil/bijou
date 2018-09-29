@@ -19,7 +19,7 @@
 	<key>inputAreaAbbreviationInputProgressIndicationOffset</key>
 	<integer>1</integer>
 	<key>inputAreaActionMenuAreaTextShadowOffset</key>
-	<string>0</string>
+	<string>0 0</string>
 	<key>inputAreaAutohideOffImage</key>
 	<string>AutohideOffTemplate</string>
 	<key>inputAreaAutohideOffImageSize</key>
