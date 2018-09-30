@@ -1,19 +1,35 @@
-# Bijou
+# Bijou (LaunchBar Theme)
 
-This is a theme for [LaunchBar 6](https://www.obdev.at/products/launchbar/index.html) inspired by Vintage (also known as Small), the default theme for LaunchBar 5.
+Bijou is a theme for [LaunchBar 6][lb] inspired by Vintage (also called Small),
+the default theme for LaunchBar 5. Previously, this theme was called El Capitan
+Small, but has since been updated for macOS Mojave.
 
-![El Capitan Small theme ](Images/Simple.jpg)
+![LaunchBar with Bijou Light enabled](Images/Simple.jpg)
 
-![Abbreviating with the El Capitan Small theme](Images/Abbreviation.jpg)
+Bijou comes with a light and a dark variant.
 
-El Capitan Small differs from the Vintage theme in a number of ways. Mainly, the abbreviations font weight is bolder, there are no badges or accent colours when info browsing, and the text input background is colourless.
+![Using instant send with Bijou Dark](Images/InstantSendDark.jpg)
 
-![Info browsing with the El Capitan Small theme](Images/ExtraInfo.jpg)
+Bijou differs from the Vintage theme in a number of ways. Mainly, the
+abbreviations font weight is bolder, there are no badges or accent colours when
+info browsing, and the text input background is colourless.
+
+![Info browsing with the Bijou Light theme](Images/ExtraInfo.jpg)
 
 ## Installation
 
-Download [this repository as a .zip file](https://github.com/benjaminwil/el-capitan-small/archive/master.zip) and open the **El Capitan Small.lbtheme** file with LaunchBar. If you want to remove it in the future, you'll find the file in your **~/Library/Application Support/LaunchBar/Themes/** directory.
+Download [this repository as a .zip file][dl]  and open the `Bijou
+Light.lbtheme` and/or `Bijou Dark.lbtheme` files. 
+
+If you want to remove Bijou in the future, you can find the installed `.lbtheme`
+files in your `~/Library/Application Support/LaunchBar/Themes/` directory.
 
 ## Acknowledgements
 
-This theme of course wouldn't be possible without [Objective Development](https://www.obdev.at) and LaunchBar—and without access to Objective Development's own Base, Base Dark, and Vintage themes. Thanks! 🦀
+This theme wouldn't be possible without [Objective Development][od] and
+LaunchBar—and without access to Objective Development's own Base, Base Dark, and
+Vintage themes. Thanks! 🦀
+
+[dl]: https://github.com/benjaminwil/bijou/archive/master.zip
+[lb]: https://www.obdev.at/products/launchbar/index.html
+[od]: https://www.obdev.at
