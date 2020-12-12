@@ -8,6 +8,8 @@
   <string>lightSystemFont</string>
 	<key>defaultTextColor</key>
   <string>whiteColor</string>
+  <key>placeholderTextColor</key>
+  <string>lightGrayColor</string>
 	<key>defaultTextShadowColor</key>
 	<string>clearColor</string>
 	<key>inputAreaAbbreviationTextColor</key>
@@ -188,6 +190,8 @@
 	<string>@defaultFontName</string>
   <key>textInputFontSize</key>
 	<integer>13</integer>
+  <key>textInputPlaceholderTextColor</key>
+  <string>@placeholderTextColor</string>
 	<key>textInputSelectedTextColor</key>
 	<string>@defaultTextColor</string>
 	<key>textInputShouldSmoothFonts</key>
